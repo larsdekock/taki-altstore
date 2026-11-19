@@ -1,0 +1,9 @@
+# GitHub Pages renders the Markdown pages of this folder with its standard theme.
+title: Taki
+description: Gezinstaken die blijven zeuren tot ze af zijn
+lang: nl
+theme: jekyll-theme-minimal
+# The files AltStore fetches must come through untouched.
+include:
+  - source.json
+  - adp
