@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Privacyverklaring Taki
 
-*Laatst bijgewerkt: 19 november 2026*
+*Laatst bijgewerkt: 20 november 2026*
 
 Taki is een takenlijst voor één gezin: ouders zetten taken klaar voor zichzelf of voor hun
 kinderen, en Taki herinnert degene die de taak heeft tot hij af is. Deze verklaring zegt welke
@@ -32,10 +32,15 @@ reclame in Taki en er wordt niets bijgehouden over je gedrag in de app of daarbu
 ## Kinderen
 
 Een kind heeft in Taki geen eigen account met e-mailadres of wachtwoord. Een ouder maakt het
-profiel van het kind aan. Van een kind bewaart Taki alleen de naam die de ouder invoert en de
-taken van dat kind. Ouders kunnen alle taken in het gezin zien en wijzigen. De telefoon van een
-kind aan zijn profiel koppelen kan in deze versie nog niet; zodra dat kan, wordt deze verklaring
-aangevuld.
+profiel van het kind aan en koppelt de telefoon of tablet van het kind eraan met een eenmalige
+code, die de ouder als QR-code laat zien. Het toestel krijgt daarbij een naamloze aanmelding
+die alleen bij dat profiel hoort. Taki vraagt en bewaart geen e-mailadres, telefoonnummer of
+Apple-account van het kind.
+
+Van een kind bewaart Taki de naam die de ouder invoert, de taken van dat kind en, voor een
+gekoppeld toestel, wat hierboven bij "Per toestel" staat. Ouders kunnen alle taken in het gezin
+zien en wijzigen, bepalen of een kind taken aan anderen mag geven, en kunnen een toestel weer
+ontkoppelen.
 
 ## Waar de gegevens staan
 
